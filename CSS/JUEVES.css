@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #6d6a6a;
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+    letter-spacing: 0.03em;
+    line-height: 1.6;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 1700px;
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+#titulo{
+    margin-bottom: 20px;
+}
+
+.container .aside1{
+    background: #311d1d;
+}
+
+.container .amarillo{
+    max-width: 1700px;
+    border-radius: 5px;
+    margin-top: 40px;
+    width: 1350px;
+}
+
+#w3c{
+    border-radius: 20%;
+    width:100px;   
+}
+
+#copyrigth{
+    font-size: 10px;
+}
+
+.jquery1{
+    margin-left: 225px;
+}
